@@ -1,0 +1,23 @@
+/node_modules
+/dist
+/.env
+/coverage
+/.vscode
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Ignore IDE specific files
+.idea/
+# Ignore OS specific files
+Thumbs.db
+# Ignore build artifacts
+/build
+# Ignore test coverage reports
+/coverage
+# Ignore environment variable files
+.env
+# Ignore log files
+files*.log
+# Ignore TypeScript build info 
+files*.tsbuildinfo
